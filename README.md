@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🌟 About Me
 
 - 🎓 **Education**: Associate in Science (GPA: 3.86), pursuing a B.S. in Computer Science with a focus on **Machine Learning** and **Data Science**.
-- 🧑‍🏫 **Past Experience**: Former English teacher (4 years) and au pair (2.5 years), honing my communication and leadership skills.
+- 🧑‍🏫 **Past Experience**: Former English teacher (4 years), honing my communication and leadership skills.
 - 🏆 **Achievements**: Winner of a college-level **hackathon** for developing a creative and impactful project.
 - 🎮 **Hobbies**: I love RPG games and have been building my own RPG game from scratch using **Python** and **Pygame**.
 
