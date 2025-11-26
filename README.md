@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Gabriel dos Reis!
 
-Welcome to my GitHub! I'm a **Junior Computer Science student** at Lewis University with a minor in **Data Science**. I have a passion for **problem-solving**, **building projects**, and **exploring data** to uncover meaningful insights.
+Welcome to my GitHub! I'm a **Senior Computer Science student** at Lewis University with a minor in **Data Science** and **Mathematics**. I have a passion for **problem-solving**, **building projects**, and **exploring data** to uncover meaningful insights.
 
 ---
 
