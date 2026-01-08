@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Gabriel dos Reis!
+#  Hello, I'm Gabriel dos Reis!
 
-Welcome to my GitHub! I'm a **Senior Computer Science student** at Lewis University with a minor in **Data Science** and **Mathematics**. I have a passion for **problem-solving**, **building projects**, and **exploring data** to uncover meaningful insights.
+Welcome to my GitHub! I am a **Computer Science graduate** from **Lewis University**, with minors in **Data Science** and **Mathematics**. I am passionate about **problem-solving**, **machine learning**, and building **data-driven systems** that transform complex information into meaningful insights.
 
 ---
 
@@ -24,13 +24,31 @@ Here are some ideas to get you started:
 </div>
 
 ###
-## 🌟 About Me
 
-- 🎓 **Education**: Associate in Science (GPA: 3.86), pursuing a B.S. in Computer Science with a focus on **Machine Learning** and **Data Science**.
-- 🧑‍🏫 **Past Experience**: Former English teacher (4 years), honing my communication and leadership skills.
-- 🏆 **Achievements**: Winner of a college-level **hackathon** for developing a creative and impactful project.
-- 🎮 **Hobbies**: I love RPG games and have been building my own RPG game from scratch using **Python** and **Pygame**.
+## About Me
+
+- **Education**: Bachelor of Science in Computer Science with a focus on **Machine Learning**, **Data Science**, and **Applied Mathematics**
+- **Experience**:
+    - Undergraduate Research Assistant
+    - Former English teacher (4 years), working with students across a wide range of ages and backgrounds
+- **Achievements**:
+    - Winner of a college-level **Hackathon**
+    - Awarded **Best Use of Data** at an **ASA Datathon**
+    - First academic paper currently **under review**
+- **Interests**:
+    - Machine learning, NLP, explainable AI, and data analysis
+- **Hobbies**: RPG games, D&D, game design, and technical creativity
 
 ---
 
-Thank you for stopping by! Feel free to explore my repositories, leave a star ⭐, or connect with me to collaborate on exciting projects. 🚀
+## What You’ll Find Here
+
+- Machine learning and data science projects
+- Research-oriented experiments and prototypes
+- Exploratory notebooks and full project pipelines
+
+---
+
+## Connect
+
+Thank you for stopping by. Feel free to explore my repositories, leave a star if something interests you, or reach out to collaborate on projects, research, or ideas.
