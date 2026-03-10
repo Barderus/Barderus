@@ -1,6 +1,6 @@
 #  Hello, I'm Gabriel dos Reis!
 
-Welcome to my GitHub! I am a **Computer Science graduate** from **Lewis University**, with minors in **Data Science** and **Mathematics**. I am passionate about **problem-solving**, **machine learning**, and building **data-driven systems** that transform complex information into meaningful insights.
+Welcome to my GitHub! I am a **Computer Science**  recent graduate, with minors in **Data Science** and **Mathematics**. I am passionate about **problem-solving**, **machine learning**, and building **data-driven systems** that transform complex information into meaningful insights.
 
 ---
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 - **Education**: Bachelor of Science in Computer Science with a focus on **Machine Learning**, **Data Science**, and **Applied Mathematics**
 - **Experience**:
+    - Adjunct Faculty at College of DuPage
     - Undergraduate Research Assistant
     - Former English teacher (4 years), working with students across a wide range of ages and backgrounds
 - **Achievements**:
