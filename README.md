@@ -1,8 +1,9 @@
-#  Hello, I'm Gabriel dos Reis!
+# Hello, I'm Gabriel dos Reis!
 
-Welcome to my GitHub! I am a **Computer Science**  recent graduate, with minors in **Data Science** and **Mathematics**. I am passionate about **problem-solving**, **machine learning**, and building **data-driven systems** that transform complex information into meaningful insights.
+I'm a **Computer Science** graduate with minors in **Data Science** and **Mathematics**, interested in machine learning, reinforcement learning, and applied AI.
 
----
+I enjoy building data-driven systems, exploring intelligent decision-making, and applying AI to real-world problems.
+
 
 <!--
 **Barderus/Barderus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,30 +27,14 @@ Here are some ideas to get you started:
 ###
 
 ## About Me
-
-- **Education**: Bachelor of Science in Computer Science with a focus on **Machine Learning**, **Data Science**, and **Applied Mathematics**
-- **Experience**:
-    - Adjunct Faculty at College of DuPage
-    - Undergraduate Research Assistant
-    - Former English teacher (4 years), working with students across a wide range of ages and backgrounds
-- **Achievements**:
-    - Winner of a college-level **Hackathon**
-    - Awarded **Best Use of Data** at an **ASA Datathon**
-    - First academic paper currently **under review**
-- **Interests**:
-    - Machine learning, NLP, explainable AI, and data analysis
-- **Hobbies**: RPG games, D&D, game design, and technical creativity
-
+* Adjunct Faculty / Teaching Assistant at College of DuPage
+* Research experience in machine learning and applied AI
+* Interested in Reinforcement Learning, Multi-Agent Systems, and Data Science
+* Currently exploring simulation-based AI and intelligent decision-making
+* RPG, D&D, and game design enthusiast
 ---
-
-## What You’ll Find Here
-
-- Machine learning and data science projects
-- Research-oriented experiments and prototypes
-- Exploratory notebooks and full project pipelines
-
+## What You'll Find Here
+* Machine learning and data science projects
+* Reinforcement learning experiments
+* Research prototypes and exploratory notebooks
 ---
-
-## Connect
-
-Thank you for stopping by. Feel free to explore my repositories, leave a star if something interests you, or reach out to collaborate on projects, research, or ideas.
